@@ -1,2 +1,2 @@
-# PlatformIO project to demonstrating ESP32 Wokwi simulation with MQTT
+# PlatformIO project to demonstrate ESP32 Wokwi simulation with MQTT
 
